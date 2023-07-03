@@ -1,1 +1,1 @@
- it just prints the core operating system name.
+This file is mandatory in projects
